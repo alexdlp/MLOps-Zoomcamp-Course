@@ -1,0 +1,86 @@
+{
+    "os": "Linux-5.19.0-43-generic-x86_64-with-glibc2.35",
+    "python": "3.11.3",
+    "heartbeatAt": "2023-06-06T18:20:04.703903",
+    "startedAt": "2023-06-06T18:20:03.308038",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--wandb_project",
+        "wanb_homework_week2",
+        "--wandb_entity",
+        "alexdlp-dlp",
+        "--raw_data_path",
+        "../taxi_data",
+        "--dest_path",
+        "./output"
+    ],
+    "state": "running",
+    "program": "/home/alexdlp/Escritorio/MLOps-Zoomcamp-Course/homework_week2/homework-wandb/preprocess_data.py",
+    "codePath": "homework_week2/homework-wandb/preprocess_data.py",
+    "git": {
+        "remote": "https://github.com/alexdlp/MLOps-Zoomcamp-Course.git",
+        "commit": "3f744fdbd0a9b7c8569cc7c9f312baff51659a9b"
+    },
+    "email": "alexdlp.dlp@gmail.com",
+    "root": "/home/alexdlp/Escritorio/MLOps-Zoomcamp-Course",
+    "host": "alexdlp-NS50MU",
+    "username": "alexdlp",
+    "executable": "/home/alexdlp/anaconda3/envs/zoomcamp/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1285.9476249999998,
+        "min": 400.0,
+        "max": 4700.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1301.404,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1263.639,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1298.852,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1239.333,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1300.769,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1300.0,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1283.318,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1300.266,
+            "min": 400.0,
+            "max": 4700.0
+        }
+    ],
+    "disk": {
+        "total": 113.59649658203125,
+        "used": 30.162845611572266
+    },
+    "memory": {
+        "total": 15.42514419555664
+    }
+}

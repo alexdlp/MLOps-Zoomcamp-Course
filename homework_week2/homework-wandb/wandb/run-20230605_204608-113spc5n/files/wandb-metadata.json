@@ -1,0 +1,76 @@
+{
+    "os": "Linux-5.19.0-43-generic-x86_64-with-glibc2.35",
+    "python": "3.11.3",
+    "heartbeatAt": "2023-06-05T18:46:14.338426",
+    "startedAt": "2023-06-05T18:46:08.665940",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/alexdlp/MLOps-Zoomcamp-Course.git",
+        "commit": "3f744fdbd0a9b7c8569cc7c9f312baff51659a9b"
+    },
+    "email": "alexdlp.dlp@gmail.com",
+    "root": "/home/alexdlp/Escritorio/MLOps-Zoomcamp-Course",
+    "host": "alexdlp-NS50MU",
+    "username": "alexdlp",
+    "executable": "/home/alexdlp/anaconda3/envs/zoomcamp/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3182.606375,
+        "min": 400.0,
+        "max": 4700.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3418.459,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 2253.193,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3414.027,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3366.609,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3168.579,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3166.094,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3368.354,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3305.536,
+            "min": 400.0,
+            "max": 4700.0
+        }
+    ],
+    "disk": {
+        "total": 113.59649658203125,
+        "used": 29.91580581665039
+    },
+    "memory": {
+        "total": 15.42514419555664
+    }
+}

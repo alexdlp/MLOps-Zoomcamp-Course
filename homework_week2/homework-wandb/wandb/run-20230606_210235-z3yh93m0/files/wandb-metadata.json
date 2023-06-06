@@ -1,0 +1,84 @@
+{
+    "os": "Linux-5.19.0-43-generic-x86_64-with-glibc2.35",
+    "python": "3.11.3",
+    "heartbeatAt": "2023-06-06T19:02:36.570754",
+    "startedAt": "2023-06-06T19:02:35.932111",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--wandb_project",
+        "wanb_homework_week2",
+        "--wandb_entity",
+        "alexdlp-dlp",
+        "--data_artifact",
+        "alexdlp-dlp/wanb_homework_week2/NYC-Taxi:v0"
+    ],
+    "state": "running",
+    "program": "/home/alexdlp/Escritorio/MLOps-Zoomcamp-Course/homework_week2/homework-wandb/sweep.py",
+    "codePath": "homework_week2/homework-wandb/sweep.py",
+    "git": {
+        "remote": "https://github.com/alexdlp/MLOps-Zoomcamp-Course.git",
+        "commit": "3f744fdbd0a9b7c8569cc7c9f312baff51659a9b"
+    },
+    "email": "alexdlp.dlp@gmail.com",
+    "root": "/home/alexdlp/Escritorio/MLOps-Zoomcamp-Course",
+    "host": "alexdlp-NS50MU",
+    "username": "alexdlp",
+    "executable": "/home/alexdlp/anaconda3/envs/zoomcamp/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3333.3536249999997,
+        "min": 400.0,
+        "max": 4700.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3853.587,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1783.775,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 4114.604,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3669.753,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 2702.306,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3621.687,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3001.405,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3919.712,
+            "min": 400.0,
+            "max": 4700.0
+        }
+    ],
+    "disk": {
+        "total": 113.59649658203125,
+        "used": 29.867332458496094
+    },
+    "memory": {
+        "total": 15.42514419555664
+    }
+}
