@@ -1,0 +1,8 @@
+services:
+  localstack:
+    image: localstack/localstack
+    ports:
+      - "4566:4566"
+    environment:
+      - SERVICES=s3
+      - S3_ENDPOINT_URL=http://localhost:4566/
